@@ -8,7 +8,7 @@ import Biryani from './Pages/Biryani'
 import Dosa from './Pages/Dosa'
 import Offers from './Pages/Offers'
 import Help from './Pages/Help'
-import Cart from './pages/Cart'
+import Cart from './Pages/Cart'
 import PageNotFound from './Pages/PageNotFound'
 import RestoList from './components/RestoList'
 
